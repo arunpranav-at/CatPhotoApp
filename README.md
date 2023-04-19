@@ -1,2 +1,4 @@
-# learningwebdev
-The repository will contain files made with html, css and js.
+# CatPhotoApp
+My small website using html
+<br>
+It is a part of my learning in freecodecamp.org
